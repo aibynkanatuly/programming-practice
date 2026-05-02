@@ -1,0 +1,62 @@
+[
+    {
+        "username": "Eldar",
+        "email": "eldar2007@gmail.com",
+        "birthday": "2007-06-07",
+        "group": "Friend",
+        "phones": [
+            {
+                "phone": "+77081500632",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "username": "Miko",
+        "email": "miko.kz@gmail.com",
+        "birthday": "2007-11-15",
+        "group": "classmate",
+        "phones": [
+            {
+                "phone": "+77073594157",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "username": "Dias",
+        "email": "dias@gmail.com",
+        "birthday": "2007-07-02",
+        "group": "Family",
+        "phones": [
+            {
+                "phone": "+77022564351",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "username": "Aibyn",
+        "email": "aibynkanatuly@gmail.com",
+        "birthday": "2008-06-28",
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "+77786636748",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "username": "Noni",
+        "email": "noniwutang@mail.com",
+        "birthday": "2007-10-15",
+        "group": "Friend",
+        "phones": [
+            {
+                "phone": "+77077741007",
+                "type": "mobile"
+            }
+        ]
+    }
+]
